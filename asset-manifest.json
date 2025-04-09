@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/azhar-portfolio/static/css/main.0b5d46a3.css",
-    "main.js": "/azhar-portfolio/static/js/main.b1e55d9e.js",
+    "main.css": "/azhar-portfolio/static/css/main.aa00cd51.css",
+    "main.js": "/azhar-portfolio/static/js/main.6ffab010.js",
     "static/js/453.fa6a644a.chunk.js": "/azhar-portfolio/static/js/453.fa6a644a.chunk.js",
     "index.html": "/azhar-portfolio/index.html",
-    "main.0b5d46a3.css.map": "/azhar-portfolio/static/css/main.0b5d46a3.css.map",
-    "main.b1e55d9e.js.map": "/azhar-portfolio/static/js/main.b1e55d9e.js.map",
+    "main.aa00cd51.css.map": "/azhar-portfolio/static/css/main.aa00cd51.css.map",
+    "main.6ffab010.js.map": "/azhar-portfolio/static/js/main.6ffab010.js.map",
     "453.fa6a644a.chunk.js.map": "/azhar-portfolio/static/js/453.fa6a644a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b5d46a3.css",
-    "static/js/main.b1e55d9e.js"
+    "static/css/main.aa00cd51.css",
+    "static/js/main.6ffab010.js"
   ]
 }
